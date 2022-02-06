@@ -70,7 +70,7 @@ Watch The Demo:(https://youtu.be/bFmygLRrhiQ)
 
 # GitHub link
 --------------
-GitHub link for the project:(https://github.com/hossamadel23895/TicTacToe_Game_Using_Java)
+GitHub link for the project:(https://github.com/DinaAlaa99/NetworkBased-TicTacToe-Game)
 
 # Team Members
 ---------------
